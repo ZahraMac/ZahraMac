@@ -5,8 +5,8 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
 
 ### 🛠 Skills & Technologies
   - **Languages:** PowerShell
-  - **Tools:** Sentinel, M364, Wireshark, Nessus
-  - **Interests:** Network security, Incident Response, penetration testing
+  - **Tools:** Sentinel, Splunk, M364, Wireshark, Nessus
+  - **Interests:** Network security, Threat Hunting, Incident Response, penetration testing
 
 ### 🔗 Projects
   - [Project 1](https://github.com/YourUsername/Project1): Brief description
