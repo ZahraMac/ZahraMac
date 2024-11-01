@@ -1,4 +1,4 @@
-up# Hi there, I'm Fatima-Zahra! 👋
+up# Hi there, I'm Zahra! 👋
 
 ### 🌐 Cybersecurity Analyst
 I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on experience in network security, threat analysis, and vulnerability assessment. I’m passionate about protecting data and creating secure systems.
