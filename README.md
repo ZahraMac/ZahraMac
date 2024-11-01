@@ -1,4 +1,4 @@
-# Hi there, I'm Fatima-Zahra! 👋
+up# Hi there, I'm Fatima-Zahra! 👋
 
 ### 🌐 Cybersecurity Analyst
 I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on experience in network security, threat analysis, and vulnerability assessment. I’m passionate about protecting data and creating secure systems.
@@ -9,11 +9,21 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
   - **Interests:** Network security, Threat Hunting, Incident Response, penetration testing
 
 ### 🔗 Projects
-  - [Project 1](https://github.com/YourUsername/Project1): Brief description
-  - [Project 2](https://github.com/YourUsername/Project2): Brief description
-  - [Project 3](https://github.com/YourUsername/Project1): Brief description
-  - [Project 4](https://github.com/YourUsername/Project2): Brief description
-  - [Project 5](https://github.com/YourUsername/Project1): Brief description
+- <b>Azure Sentinel</b>
+  - [Setup SIEM in Azure Sentinel](https://github.com/YourUsername/Project1)
+- <b>Active Directory Environment</b>
+  - Setup an Active Directory Environment
+  - Adding Users using PowerShell script
+  - (https://github.com/YourUsername/Project2)
+- <b>Malware Analysis</b>
+  - Static & Sandboxing (https://github.com/YourUsername/Project3
+- <b>Vulnerability Management</b>
+  - Setup Nessus as Vulnerability Management
+  - Perform Scaning
+  - (https://github.com/YourUsername/Project4)
+- <b>File Integrity Manager (FIM)</b>
+  - Coding (FIM) with PowerShell to track unauthorized file modifications 
+  - (https://github.com/YourUsername/Project5)
 
 ### 📫 Connect with me
 
