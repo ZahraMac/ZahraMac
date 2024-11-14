@@ -10,7 +10,7 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
 
 ### 🔗 Projects
 - <b>Azure Sentinel</b>
-  - [Setup SIEM in Azure Sentinel](https://github.com/YourUsername/Project1)
+  - RDP Brute foorce attacks to IP Geolocation Information (https://github.com/YourUsername/Project1)
 
 - <b>Malware Analysis</b>
   - Static & Sandboxing (https://github.com/YourUsername/Project3
