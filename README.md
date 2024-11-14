@@ -4,9 +4,9 @@ up# Hi there, I'm Zahra! 👋
 I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on experience in network security, threat analysis, and vulnerability assessment. I’m passionate about protecting data and creating secure systems.
 
 ### 🛠 Skills & Technologies
-  - **Languages:** PowerShell
-  - **Tools:** Sentinel, Splunk, M364, Wireshark, Nessus
-  - **Interests:** Network security, Threat Hunting, Incident Response, penetration testing
+  - **Languages:** PowerShell, Python, Visual Basic
+  - **Tools:** Sentinel, Splunk, Microsoft Defender 364, Wireshark, Nessus
+  - **Interests:** Vulnerability management, Threat Hunting, Incident Response, Malware Analysis
 
 ### 🔗 Projects
 - <b>Azure Sentinel</b>
