@@ -16,9 +16,7 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
   - Static & Sandboxing (https://github.com/YourUsername/Project3
     
 - <b>Vulnerability Management</b>
-  - Setup Nessus as Vulnerability Management
-  - Perform Scaning
-  - (https://github.com/YourUsername/Project4)
+  - Setup Nessus & Perform Scaning (https://github.com/YourUsername/Project4)
     
 
 ### 📫 Connect with me
