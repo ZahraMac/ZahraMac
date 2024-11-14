@@ -13,7 +13,7 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
   - RDP Brute foorce attacks to IP Geolocation Information https://github.com/ZahraMac/Azure-Sentinel
 
 - <b>Malware Analysis</b>
-  - Static & Sandboxing 
+  - Static & Dynamic Malware Analysis https://github.com/ZahraMac/Malware-Analysis
     
 - <b>Vulnerability Management</b>
   - Setup Nessus & Perform Scaning 
