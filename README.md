@@ -11,19 +11,15 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
 ### 🔗 Projects
 - <b>Azure Sentinel</b>
   - [Setup SIEM in Azure Sentinel](https://github.com/YourUsername/Project1)
-- <b>Active Directory Environment</b>
-  - Setup an Active Directory Environment
-  - Adding Users using PowerShell script
-  - (https://github.com/YourUsername/Project2)
+
 - <b>Malware Analysis</b>
   - Static & Sandboxing (https://github.com/YourUsername/Project3
+    
 - <b>Vulnerability Management</b>
   - Setup Nessus as Vulnerability Management
   - Perform Scaning
   - (https://github.com/YourUsername/Project4)
-- <b>File Integrity Manager (FIM)</b>
-  - Coding (FIM) with PowerShell to track unauthorized file modifications 
-  - (https://github.com/YourUsername/Project5)
+    
 
 ### 📫 Connect with me
 
