@@ -16,7 +16,7 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
   - Static & Dynamic Malware Analysis https://github.com/ZahraMac/Malware-Analysis
     
 - <b>Vulnerability Management</b>
-  - Setup Nessus & Perform Scaning 
+  - Setup Nessus & Perform Scaning https://github.com/ZahraMac/Nessus-Vulnerability-management
     
 
 ### 📫 Connect with me
