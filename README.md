@@ -10,13 +10,13 @@ I’m currently working toward my Bachelor’s in Cybersecurity, with hands-on e
 
 ### 🔗 Projects
 - <b>Azure Sentinel</b>
-  - RDP Brute foorce attacks to IP Geolocation Information (https://github.com/YourUsername/Project1)
+  - RDP Brute foorce attacks to IP Geolocation Information
 
 - <b>Malware Analysis</b>
-  - Static & Sandboxing (https://github.com/YourUsername/Project3
+  - Static & Sandboxing 
     
 - <b>Vulnerability Management</b>
-  - Setup Nessus & Perform Scaning (https://github.com/YourUsername/Project4)
+  - Setup Nessus & Perform Scaning 
     
 
 ### 📫 Connect with me
